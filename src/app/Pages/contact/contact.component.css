@@ -1,0 +1,10 @@
+.profile{
+  border-radius: 50%;
+  width: 350px;
+  height: 350px;
+}
+
+.body{
+  background-color: black;
+  color: white;
+}

@@ -88,11 +88,15 @@
             ],
             "styles": [
               "src/styles.css"
+              "src/Roboto-Regular.css"
             ],
             "scripts": []
           }
         }
       }
     }
+  },
+  "cli": {
+    "analytics": false
   }
 }

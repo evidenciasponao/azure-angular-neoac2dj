@@ -1,0 +1,13 @@
+.bio{
+  background-color: black;
+  color: white;
+  text-align: center;
+  padding-left: 10%;
+  padding-right: 10%;
+  padding-bottom: 1%;
+}
+.profile{
+  border-radius: 60%;
+  width: 340px;
+  height: 340px;
+}
