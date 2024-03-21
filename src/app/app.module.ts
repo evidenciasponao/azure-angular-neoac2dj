@@ -13,6 +13,7 @@ import { StreamsComponent } from './Pages/streams/streams.component';
 import { DatesComponent } from './Pages/dates/dates.component';
 import { ServicesComponent } from './Pages/services/services.component';
 import { ContactComponent } from './Pages/contact/contact.component';
+import { VisualArtComponent } from './Pages/visual-art/visual-art.component';
 
 @NgModule({
   declarations: [
@@ -26,7 +27,8 @@ import { ContactComponent } from './Pages/contact/contact.component';
     StreamsComponent,
     DatesComponent,
     ServicesComponent,
-    ContactComponent
+    ContactComponent,
+    VisualArtComponent
   ],
   imports: [
     BrowserModule,
